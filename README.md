@@ -1,6 +1,6 @@
-🚀 Collection of 5 GUI apps in Python for software development practice
+🚀 **Collection of 5 GUI apps in Python for software development practice**
 
-Apps Included:
+**Apps Included:**
 1. Temperature Conversion 🌡️
     - Convert temperatures between Celsius, Fahrenheit, and Kelvin
 2. Number Guessing Game 🤔
@@ -12,7 +12,7 @@ Apps Included:
 5. Web Scraping 🕸️
     - Extract data from e-commerce websites using Python
 
-* Technologies Used:*
+**Technologies Used:**
 - Python 3.x
-- GUI libraries (e.g., Tkinter)
-- Web scraping libraries (e.g., BeautifulSoup, Requests)
+- GUI libraries (e.g: Tkinter)
+- Web scraping libraries (e.g: BeautifulSoup, Requests)
