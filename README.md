@@ -13,6 +13,6 @@
     - Extract data from e-commerce websites using Python
 
 **Technologies Used:**
-- Python 3.x
+- Python 3.12
 - GUI libraries (e.g: Tkinter)
 - Web scraping libraries (e.g: BeautifulSoup, Requests)
