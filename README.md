@@ -1,4 +1,4 @@
-🚀 **Collection of 5 GUI apps in Python for software development practice**
+🚀 **Collection of 5 GUI apps in Python for Software Development practice**
 
 **Apps Included:**
 1. Temperature Conversion 🌡️
